@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Mountain View, California. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Mountain View, California, US",
+  "export_job_id": "fb7691f2-aba5-454c-8071-a181b60c0deb",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 390778,
+  "location_name": "Mountain View",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-mountain-view-california-us-sample-390778",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/390778/beamstation_390778_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.61,
+  "sample_records": 22,
+  "sample_sha256": "bcb7d13549fcd5250ee601845d1ca6ab322489edf5fc22e0ff2ee8697bbcccbd",
+  "sample_size_bytes": 96257,
+  "total_records": 229,
+  "updated_at": "2026-04-07T13:55:20.939136+00:00"
+}
