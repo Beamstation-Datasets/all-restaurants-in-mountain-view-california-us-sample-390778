@@ -1,6 +1,6 @@
 # All Restaurants in Mountain View, California, US
 
-> Free BeamStation sample export with 23 rows and masked direct-contact fields.
+> Free BeamStation sample export with 20 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `390778` |
 | Location | Mountain View |
 | Category | Restaurants |
-| Full dataset size | 231 records |
-| Free sample size | 23 records (9.96%) |
-| Last export | 2026-04-14T20:58:18.871489+00:00 |
+| Full dataset size | 206 records |
+| Free sample size | 20 records (9.71%) |
+| Last export | 2026-04-21T23:24:49.509146+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-mountain-view-california-us-sample-390778/releases/download/sample-latest/beamstation_390778_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
