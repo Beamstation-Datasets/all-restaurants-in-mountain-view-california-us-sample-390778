@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d02c171d-eab5-4bd0-86ac-c1c4527c3559",
+  "export_job_id": "00451e0f-28e3-4ee9-8e39-60cbc9043029",
   "id_short": 390778,
-  "published_at": "2026-04-29T07:12:04Z",
+  "published_at": "2026-06-01T05:07:30Z",
   "repo_name": "all-restaurants-in-mountain-view-california-us-sample-390778",
   "sample_asset_name": "beamstation_390778_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/390778/beamstation_390778_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 17,
-  "sample_sha256": "d6365afbef02a095e5a37c43399a2ad64835a21ac5936b0df7bc2a0baa114f67",
-  "sample_size_bytes": 75562,
-  "total_records": 178
+  "sample_records": 23,
+  "sample_sha256": "28483cfcf517a57bedeece446a54f54d27483678c81c6e3c2470c5c8abd922aa",
+  "sample_size_bytes": 98400,
+  "total_records": 236
 }
